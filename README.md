@@ -16,8 +16,9 @@ Bar =james
 Bank = leah
 Library = mwangi
 Hardware Shop = akinyi
-Shop (General)
+Shop (General) = mzee
 Mechanical Garage = maryanne
+organization structure = husein
 
 # Prerequisites
 
